@@ -3,6 +3,12 @@
 
 [Sehuyn Chun, Sidhartha Roy, Yen Thi Nguyen, Joseph B. Choi, H.S. Udaykumar, Stephen S. Baek. (2020). Deep learning for synthetic microstructure in a materials-by-design framework for heterogeneous energetic materials._Scientific Report 10,_13307.](https://www.nature.com/articles/s41598-020-70149-0)
 
+--- 
+Planned changes: 
+- migration to TensorFlow/Keras or PyTorch
+- modularization
+--- 
+
 ## Getter Started
 
 ### Virtual Environment
