@@ -1,7 +1,7 @@
 # Deep learning for synthetic microstructure in a materials-by-design framework for heterogeneous energetic materials
 <a href="https://arxiv.org/abs/2004.04814"><img src="https://img.shields.io/badge/cond.mat-arXiv%3A2004.04814-B31B1B.svg"></a>
 
-[Sehuyn Chun, Sidhartha Roy, Yen Thi Nguyen, Joseph B. Choi, H.S. Udaykumar, Stephen S. Baek. (2020). Deep learning for synthetic microstructure in a materials-by-design framework for heterogeneous energetic materials._Scientific Report 10,_13307.](https://www.nature.com/articles/s41598-020-70149-0)
+[Sehuyn Chun, Sidhartha Roy, Yen Thi Nguyen, Joseph B. Choi, H.S. Udaykumar, Stephen S. Baek. (2020). Deep learning for synthetic microstructure in a materials-by-design framework for heterogeneous energetic materials._Scientific Report 10, 13307.](https://www.nature.com/articles/s41598-020-70149-0)
 
 --- 
 Planned changes: 
