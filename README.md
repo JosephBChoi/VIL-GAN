@@ -7,6 +7,7 @@
 Planned changes: 
 - migration to TensorFlow/Keras or PyTorch
 - modularization
+- refactor
 --- 
 
 ## Getter Started
